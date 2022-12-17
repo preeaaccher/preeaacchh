@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Preach.
-- 👀 I’m interested in Gaming, Graphic Design and Software Engineering'
+- 👀 I’m interested in Gaming, Art and Software Engineering'
 - 🌱 I’m currently learning JavaScript at AltSchool Africa.
 - 💞️ I’m looking to collaborate on a user friendly project that is solution oriented.
 - 📫 Reach me on Instagram and Twitter @preeaacchh
