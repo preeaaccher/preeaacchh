@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Preach.
 - 👀 I’m interested in Gaming, Art and Software Engineering'
-- 🌱 I’m currently learning JavaScript at AltSchool Africa.
-- 💞️ I’m looking to collaborate on a user friendly project that is solution oriented.
-- 📫 Reach me on Instagram and Twitter @preeaacchh
+- 💞️ I’m looking to collaborate on projects that are solution oriented.
+- 📫 Reach me on Instagram and Twitter @preeaacchher
 
 <!---
 preeaacchh/preeaacchh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
