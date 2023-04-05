@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Preach.
+- 👋 Hi, I’m Preacher.
 - 👀 I’m interested in Gaming, Art and Software Engineering'
 - 💞️ I’m looking to collaborate on projects that are solution oriented.
 - 📫 Reach me on Instagram and Twitter @preeaacchher
